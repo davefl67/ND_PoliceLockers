@@ -1,6 +1,8 @@
-# ND Police Lockers
-**This is not ready for use with ND Core**
+# This is not ready for use with ND Core
 
+Please wait for the release.
+
+---
 They say *"you can't teach an old dog new tricks."*
 
 Well, I am trying anyway. I am a 56 year old coding beginner. I decided about a year ago to teach myself basic programming. I started studying Lua and the basics of scripting for FiveM. I have a pretty good understanding of how things work, I have watched a bunch of tutorials and read a couple of books. I have been helping on a few support forums and Discord servers. 
